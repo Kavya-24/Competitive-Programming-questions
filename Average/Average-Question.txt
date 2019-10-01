@@ -76,5 +76,6 @@ Sample Input 3;
 
 Sample Output 3:
 
-0
+PROBLEM 2 avgBasic
+Create a program to calculate the average of any given integers. 
 
